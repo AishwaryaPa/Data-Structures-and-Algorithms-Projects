@@ -1,0 +1,60 @@
+
+... MinMaxHeap::dump() ...
+
+------------Min Heap------------
+size = 9, capacity = 9
+Heap[1] = (abc,6)
+Heap[2] = (def,8)
+Heap[3] = (ghi,7)
+Heap[4] = (mno,5)
+Heap[5] = (vwx,2)
+Heap[6] = (pqr,3)
+Heap[7] = (jkl,9)
+Heap[8] = (yz_,1)
+Heap[9] = (stu,4)
+
+------------Max Heap------------
+size = 9, capacity = 9
+Heap[1] = (yz_,8)
+Heap[2] = (vwx,5)
+Heap[3] = (pqr,6)
+Heap[4] = (stu,9)
+Heap[5] = (mno,4)
+Heap[6] = (abc,1)
+Heap[7] = (ghi,3)
+Heap[8] = (def,2)
+Heap[9] = (jkl,7)
+--------------------------------
+
+Sanity Check minHeap...
+Sanity Check maxHeap...
+Passed sanityCheck().
+Min item abc removed from MinMax Heap
+Max item yz_ removed from MinMax Heap
+
+... MinMaxHeap::dump() ...
+
+------------Min Heap------------
+size = 7, capacity = 9
+Heap[1] = (def,4)
+Heap[2] = (mno,5)
+Heap[3] = (ghi,7)
+Heap[4] = (stu,2)
+Heap[5] = (vwx,1)
+Heap[6] = (pqr,3)
+Heap[7] = (jkl,6)
+
+------------Max Heap------------
+size = 7, capacity = 9
+Heap[1] = (vwx,5)
+Heap[2] = (stu,4)
+Heap[3] = (pqr,6)
+Heap[4] = (def,1)
+Heap[5] = (mno,2)
+Heap[6] = (jkl,7)
+Heap[7] = (ghi,3)
+--------------------------------
+
+Sanity Check minHeap...
+Sanity Check maxHeap...
+Passed sanityCheck().

@@ -1,0 +1,11 @@
+48134 . SP
+38135
+DO
+   DUP 2 % NOT IFTHEN  // print even
+      DUP . SP
+   ELSE
+   ENDIF
+   1 - 
+DUP 38128 < UNTIL
+. SP
+CR

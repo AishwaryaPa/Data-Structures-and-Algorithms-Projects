@@ -1,0 +1,19 @@
+48134 . SP
+100
+DO
+   48135 . SP
+   DUP . SP
+   1000
+   DO
+      7 DO 1 . SP 1 - DUP 0 < UNTIL DROP
+      SWAP DUP . SP SWAP
+      DUP . SP    
+      7 DO 1 . SP 1 - DUP 0 < UNTIL DROP
+      1 + 
+   DUP 1004 >= UNTIL
+   DROP
+   48136 . SP 
+   1 + 
+DUP 106 >= UNTIL
+. SP
+CR

@@ -1,0 +1,353 @@
+45135 . SP
+0 0 0
+IFTHEN
+   76136 . SP
+   IFTHEN
+      81351 . SP
+      IFTHEN
+         91381 . SP
+      ELSE
+         91382 . SP
+      ENDIF
+      81352 . SP
+   ELSE
+      81353 . SP
+      IFTHEN
+         91383 . SP
+      ELSE
+         91384 . SP
+      ENDIF
+      81354 . SP
+   ENDIF
+   76137 . SP
+ELSE 
+   76138 . SP
+   IFTHEN
+      81355 . SP
+      IFTHEN
+         91385 . SP
+      ELSE
+         91386 . SP
+      ENDIF
+      81356 . SP
+   ELSE
+      81357 . SP
+      IFTHEN
+         91387 . SP
+      ELSE
+         91388 . SP
+      ENDIF
+      81358 . SP
+   ENDIF
+   76139 . SP
+ENDIF
+62140 . SP
+45136 . SP
+0 0 1
+IFTHEN
+   76136 . SP
+   IFTHEN
+      81351 . SP
+      IFTHEN
+         91381 . SP
+      ELSE
+         91382 . SP
+      ENDIF
+      81352 . SP
+   ELSE
+      81353 . SP
+      IFTHEN
+         91383 . SP
+      ELSE
+         91384 . SP
+      ENDIF
+      81354 . SP
+   ENDIF
+   76137 . SP
+ELSE 
+   76138 . SP
+   IFTHEN
+      81355 . SP
+      IFTHEN
+         91385 . SP
+      ELSE
+         91386 . SP
+      ENDIF
+      81356 . SP
+   ELSE
+      81357 . SP
+      IFTHEN
+         91387 . SP
+      ELSE
+         91388 . SP
+      ENDIF
+      81358 . SP
+   ENDIF
+   76139 . SP
+ENDIF
+62141 . SP
+45137 . SP
+0 1 0
+IFTHEN
+   76136 . SP
+   IFTHEN
+      81351 . SP
+      IFTHEN
+         91381 . SP
+      ELSE
+         91382 . SP
+      ENDIF
+      81352 . SP
+   ELSE
+      81353 . SP
+      IFTHEN
+         91383 . SP
+      ELSE
+         91384 . SP
+      ENDIF
+      81354 . SP
+   ENDIF
+   76137 . SP
+ELSE 
+   76138 . SP
+   IFTHEN
+      81355 . SP
+      IFTHEN
+         91385 . SP
+      ELSE
+         91386 . SP
+      ENDIF
+      81356 . SP
+   ELSE
+      81357 . SP
+      IFTHEN
+         91387 . SP
+      ELSE
+         91388 . SP
+      ENDIF
+      81358 . SP
+   ENDIF
+   76139 . SP
+ENDIF
+62142 . SP
+45138 . SP
+0 1 1
+IFTHEN
+   76136 . SP
+   IFTHEN
+      81351 . SP
+      IFTHEN
+         91381 . SP
+      ELSE
+         91382 . SP
+      ENDIF
+      81352 . SP
+   ELSE
+      81353 . SP
+      IFTHEN
+         91383 . SP
+      ELSE
+         91384 . SP
+      ENDIF
+      81354 . SP
+   ENDIF
+   76137 . SP
+ELSE 
+   76138 . SP
+   IFTHEN
+      81355 . SP
+      IFTHEN
+         91385 . SP
+      ELSE
+         91386 . SP
+      ENDIF
+      81356 . SP
+   ELSE
+      81357 . SP
+      IFTHEN
+         91387 . SP
+      ELSE
+         91388 . SP
+      ENDIF
+      81358 . SP
+   ENDIF
+   76139 . SP
+ENDIF
+62143 . SP
+45139 . SP
+1 0 0
+IFTHEN
+   76136 . SP
+   IFTHEN
+      81351 . SP
+      IFTHEN
+         91381 . SP
+      ELSE
+         91382 . SP
+      ENDIF
+      81352 . SP
+   ELSE
+      81353 . SP
+      IFTHEN
+         91383 . SP
+      ELSE
+         91384 . SP
+      ENDIF
+      81354 . SP
+   ENDIF
+   76137 . SP
+ELSE 
+   76138 . SP
+   IFTHEN
+      81355 . SP
+      IFTHEN
+         91385 . SP
+      ELSE
+         91386 . SP
+      ENDIF
+      81356 . SP
+   ELSE
+      81357 . SP
+      IFTHEN
+         91387 . SP
+      ELSE
+         91388 . SP
+      ENDIF
+      81358 . SP
+   ENDIF
+   76139 . SP
+ENDIF
+62144 . SP
+45140 . SP
+1 0 1
+IFTHEN
+   76136 . SP
+   IFTHEN
+      81351 . SP
+      IFTHEN
+         91381 . SP
+      ELSE
+         91382 . SP
+      ENDIF
+      81352 . SP
+   ELSE
+      81353 . SP
+      IFTHEN
+         91383 . SP
+      ELSE
+         91384 . SP
+      ENDIF
+      81354 . SP
+   ENDIF
+   76137 . SP
+ELSE 
+   76138 . SP
+   IFTHEN
+      81355 . SP
+      IFTHEN
+         91385 . SP
+      ELSE
+         91386 . SP
+      ENDIF
+      81356 . SP
+   ELSE
+      81357 . SP
+      IFTHEN
+         91387 . SP
+      ELSE
+         91388 . SP
+      ENDIF
+      81358 . SP
+   ENDIF
+   76139 . SP
+ENDIF
+62145 . SP
+45141 . SP
+1 1 0
+IFTHEN
+   76136 . SP
+   IFTHEN
+      81351 . SP
+      IFTHEN
+         91381 . SP
+      ELSE
+         91382 . SP
+      ENDIF
+      81352 . SP
+   ELSE
+      81353 . SP
+      IFTHEN
+         91383 . SP
+      ELSE
+         91384 . SP
+      ENDIF
+      81354 . SP
+   ENDIF
+   76137 . SP
+ELSE 
+   76138 . SP
+   IFTHEN
+      81355 . SP
+      IFTHEN
+         91385 . SP
+      ELSE
+         91386 . SP
+      ENDIF
+      81356 . SP
+   ELSE
+      81357 . SP
+      IFTHEN
+         91387 . SP
+      ELSE
+         91388 . SP
+      ENDIF
+      81358 . SP
+   ENDIF
+   76139 . SP
+ENDIF
+62146 . SP
+45142 . SP
+1 1 1
+IFTHEN
+   76136 . SP
+   IFTHEN
+      81351 . SP
+      IFTHEN
+         91381 . SP
+      ELSE
+         91382 . SP
+      ENDIF
+      81352 . SP
+   ELSE
+      81353 . SP
+      IFTHEN
+         91383 . SP
+      ELSE
+         91384 . SP
+      ENDIF
+      81354 . SP
+   ENDIF
+   76137 . SP
+ELSE 
+   76138 . SP
+   IFTHEN
+      81355 . SP
+      IFTHEN
+         91385 . SP
+      ELSE
+         91386 . SP
+      ENDIF
+      81356 . SP
+   ELSE
+      81357 . SP
+      IFTHEN
+         91387 . SP
+      ELSE
+         91388 . SP
+      ENDIF
+      81358 . SP
+   ENDIF
+   76139 . SP
+ENDIF
+62147 . SP
+CR

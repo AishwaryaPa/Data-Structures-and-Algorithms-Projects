@@ -1,0 +1,8 @@
+48134 . SP
+38135
+DO
+  DUP 5 + . SP
+  1 -
+DUP 38128 < UNTIL
+. SP
+CR

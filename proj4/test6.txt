@@ -1,0 +1,92 @@
+Initial MinMax Heap
+
+... MinMaxHeap::dump() ...
+
+------------Min Heap------------
+size = 9, capacity = 25
+Heap[1] = (2,6)
+Heap[2] = (6,5)
+Heap[3] = (5,8)
+Heap[4] = (10,3)
+Heap[5] = (9,9)
+Heap[6] = (7,7)
+Heap[7] = (16,1)
+Heap[8] = (12,2)
+Heap[9] = (11,4)
+
+------------Max Heap------------
+size = 9, capacity = 25
+Heap[1] = (16,7)
+Heap[2] = (12,8)
+Heap[3] = (10,4)
+Heap[4] = (11,9)
+Heap[5] = (6,2)
+Heap[6] = (2,1)
+Heap[7] = (7,6)
+Heap[8] = (5,3)
+Heap[9] = (9,5)
+--------------------------------
+
+Sanity Check minHeap...
+Sanity Check maxHeap...
+Passed sanityCheck().
+copied MinMax Heap
+
+... MinMaxHeap::dump() ...
+
+------------Min Heap------------
+size = 9, capacity = 25
+Heap[1] = (2,6)
+Heap[2] = (6,5)
+Heap[3] = (5,8)
+Heap[4] = (10,3)
+Heap[5] = (9,9)
+Heap[6] = (7,7)
+Heap[7] = (16,1)
+Heap[8] = (12,2)
+Heap[9] = (11,4)
+
+------------Max Heap------------
+size = 9, capacity = 25
+Heap[1] = (16,7)
+Heap[2] = (12,8)
+Heap[3] = (10,4)
+Heap[4] = (11,9)
+Heap[5] = (6,2)
+Heap[6] = (2,1)
+Heap[7] = (7,6)
+Heap[8] = (5,3)
+Heap[9] = (9,5)
+--------------------------------
+
+
+H and *Gptr after deleteMax and deleteMin
+Sanity Check minHeap...
+Sanity Check maxHeap...
+Passed sanityCheck().
+Sanity Check minHeap...
+Sanity Check maxHeap...
+Passed sanityCheck().
+
+H after Gptr deleted
+Sanity Check minHeap...
+Sanity Check maxHeap...
+Passed sanityCheck().
+
+K1 after inserts
+Sanity Check minHeap...
+Sanity Check maxHeap...
+Passed sanityCheck().
+
+K2 after inserts
+Sanity Check minHeap...
+Sanity Check maxHeap...
+Passed sanityCheck().
+
+K1 & K2 after assignment, etc...
+Sanity Check minHeap...
+Sanity Check maxHeap...
+Passed sanityCheck().
+Sanity Check minHeap...
+Sanity Check maxHeap...
+Passed sanityCheck().

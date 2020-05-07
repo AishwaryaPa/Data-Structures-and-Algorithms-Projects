@@ -1,0 +1,8 @@
+Calling Outer functions:
+oData = 43
+oData = 43
+iData = 72
+Calling Inner functions:
+iData = 72
+oData = 43
+iData = 72
